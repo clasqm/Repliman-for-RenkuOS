@@ -16,6 +16,6 @@ The screen shot also has one replicant on the deskbar: ProcessController. Note, 
 Once you have deleted a replicant it will only stay deleted if you quit the deskbar or tracker normally. So, if the tracker crashes or you kill it then it may not update the file it uses to store information about the replicants and will just reload them when it restarts.
 
 
-**Original Source:**  https://github.com/HaikuArchives/Repliman. 
+**Original Source:**  https://github.com/HaikuArchives/Repliman  
 **License:** Be Sample Code License
 
